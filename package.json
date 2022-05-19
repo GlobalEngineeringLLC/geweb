@@ -17,7 +17,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/robots": "^2.5.0",
     "@nuxtjs/sitemap": "^2.4.0",
-    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/forms": "^0.5.2",
     "core-js": "^3.10.1",
     "eslint": "^7.23.0",
     "npm": "^7.21.0",
