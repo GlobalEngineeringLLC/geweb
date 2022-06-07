@@ -25,7 +25,7 @@
     "nuxt-i18n": "^6.24.0",
     "tailwindcss-filters": "^3.0.0",
     "three": "^0.131.3",
-    "vue": "^2.6.12"
+    "vue": "^3.2.37"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.15.0",
