@@ -45,7 +45,7 @@
     "pug-plain-loader": "^1.1.0",
     "sass": "^1.38.0",
     "sass-loader": "^10.2.0",
-    "tailwindcss": "^2.2.7",
+    "tailwindcss": "^3.1.6",
     "tailwindcss-debug-screens": "^2.0.0"
   }
 }
