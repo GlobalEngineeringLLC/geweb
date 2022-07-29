@@ -24,7 +24,7 @@
     "nuxt": "^2.15.8",
     "nuxt-i18n": "^6.24.0",
     "tailwindcss-filters": "^3.0.0",
-    "three": "^0.131.3",
+    "three": "^0.143.0",
     "vue": "^2.6.12"
   },
   "devDependencies": {
